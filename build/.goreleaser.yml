@@ -25,6 +25,7 @@ changelog:
     exclude:
     - '^docs:'
     - '^test:'
+    - '^README.md'
 release:
   github:
     owner: droot
